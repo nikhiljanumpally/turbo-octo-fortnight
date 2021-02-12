@@ -115,7 +115,7 @@ header {
 }
 .search input {
   border: none;
-  border-radius: 30px;
+  border-radius: 80px;
   padding: 3rem;
   outline: none;
 }
